@@ -9,7 +9,7 @@
   </p>
 
 
-# CRUD Application | Vue JS and ASP.NET Web API
+# CRUD Application | Vue JS Frontend
 
 ## Project setup
 ```
